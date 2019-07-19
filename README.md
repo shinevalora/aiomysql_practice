@@ -1,0 +1,2 @@
+# aiomysql_practice
+异步mysql数据库增删改查小小练习
